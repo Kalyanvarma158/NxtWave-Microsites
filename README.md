@@ -8,5 +8,5 @@ Weekly report page - <a href="https://portal.ccbp.in/learning-reports/weekly-rep
 ### 10xIIT
 10xIIT Homepage - <a href="https://10xiit-home-page.webflow.io/">10xIIT</a><br>
 10xIIT Daily performance report - <a href="https://10xiitian-reports.ccbp.in/dr-page?id=60649964-8064-4409-9e9d-64a536a12572_03/05/2021">DR</a><br>
-10xIIT Weekly performance report - <a href="https://10xiitian-reports.ccbp.in/wr-page?id=60649964-8064-4409-9e9d-64a536a12572_03/05/2021WR</a><br>
-10xIIT Learning path - <a href="https://10xiitian-reports.ccbp.in/10xiitian-learning-path/ddf99e5f-60e4-403c-b698-16554ddb023dLR</a>
+10xIIT Weekly performance report - <a href="https://10xiitian-reports.ccbp.in/wr-page?id=60649964-8064-4409-9e9d-64a536a12572_03/05/2021WR"</a><br>
+10xIIT Learning path - <a href="https://10xiitian-reports.ccbp.in/10xiitian-learning-path/ddf99e5f-60e4-403c-b698-16554ddb023dLR"</a>
